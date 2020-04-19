@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "kinematograf",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1, "naziv": "Dokukino KIC", "adresa": "Preradovićeva 5", "telefon": "01 557 3860", "fax": null, "email": "info@dokukino.net", "web": "http:\/\/www.dokukino.net", "radno_vrijeme": "Blagajna: čet-ned 30min prije projekcije", "osnivac": "Grad Zagreb", "nadlezan": "Ministarstvo kulture", "izvor": "http:\/\/www.dokukino.net", "izradio": "Gradski ured za strategijsko planiranje i razvoj Grada", "energetski_razred": null, "gradska_cetvrt": "DONJI GRAD" }, "geometry": { "type": "Point", "coordinates": [ 15.974420799410751, 45.811482571177308 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 2, "naziv": "Kino Europa", "adresa": "Varšavska 3", "telefon": "01 487 2888", "fax": null, "email": "info@kinoeuropa.hr", "web": "http:\/\/kinoeuropa.hr", "radno_vrijeme": "Blagajna: pon-sub 12h do početka posljednje projekcije u danu, ned - blagajna se otvara 30 min prije prve projekcije, a zatvara nakon početka posljednje projekcije u danu", "osnivac": "Grad Zagreb", "nadlezan": "Gradski ured za kulturu", "izvor": "Gradski ured za kulturu", "izradio": "Gradski ured za strategijsko planiranje i razvoj Grada", "energetski_razred": "F", "gradska_cetvrt": "DONJI GRAD" }, "geometry": { "type": "Point", "coordinates": [ 15.973362472967695, 45.811796713335838 ] } },
